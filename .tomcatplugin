@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tomcatProjectProperties>
+    <rootDir>/</rootDir>
+    <workDir>/work</workDir>
+    <exportSource>false</exportSource>
+    <reloadable>true</reloadable>
+    <redirectLogger>true</redirectLogger>
+    <updateXml>true</updateXml>
+    <warLocation>C:\pleiades-Mars\tomcat\8\webapps\ecsite.war</warLocation>
+    <extraInfo></extraInfo>
+    <webPath>/ecsite</webPath>
+</tomcatProjectProperties>
