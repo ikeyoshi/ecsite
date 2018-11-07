@@ -16,7 +16,7 @@
 /* ========TAG LAYOUT======== */
 body {
 	margin: 0;
-	　padding: 0;
+	padding: 0;
 	line-height: 1.6;
 	letter-spacing: 1px;
 	font-family: Verdana, Helvetica, sans-serif;
@@ -26,13 +26,13 @@ body {
 }
 
 table {
-	　text-align: center;
-	　margin: 0 auto;
+	text-align: center;
+	margin: 0 auto;
 } /* ========ID LAYOUT======== */
 #top {
 	width: 780px;
-	　margin: 30px auto;
-	　border: 1px solid #333;
+	margin: 30px auto;
+	border: 1px solid #333;
 }
 
 #header {
@@ -48,10 +48,10 @@ table {
 }
 
 #footer {
-	　width: 100%;
-	　height: 80px;
-	　background-color: black;
-	　clear: both;
+	width: 100%;
+	height: 80px;
+	background-color: black;
+	clear: both;
 }
 
 #text-link {
